@@ -1,0 +1,76 @@
+ 
+        header {
+            background-color: burlywood;
+            
+            padding: 20px;
+            box-shadow: 0 4px 8px #d9cc0d1a;
+            
+            
+        }
+        h1 {
+            color: #333;
+            font-family: Arial, sans-serif;
+            letter-spacing: 15px;
+            text-align: center;
+            
+        }
+        h3 {
+            color: #333;
+            font-family: 'Courier New', Courier, monospace;
+            text-align: center;
+          }
+          body{
+            background-color: tan;
+          }
+            .navbar {
+                display: flex;
+                font-weight: bold;
+                gap: 50px;  
+                list-style-type: none;
+                color: black;
+                justify-content: center;
+                padding: 50px;
+                  }
+            .navbar  li a {
+                text-decoration: none;
+                color: black;
+                font-family: 'Roboto', sans-serif;
+                font-size: 18px;
+            }
+            .profile{
+                
+                  width: 40%;
+                  height: 50%;
+                    margin-left: 460px;
+                    border-radius: 30px;
+                    
+                    border: #333 solid 5px;
+             }
+             .fa-brands.fa-square-instagram{
+                position: absolute;
+                font-size: 50px;
+                color: #333;
+                margin-top: 440px;
+                margin-left: -100px;
+                
+            
+             }
+             .fa-brands.fa-linkedin{
+                position: absolute;
+                font-size: 50px;
+                color: #333;
+                margin-top: 440px;
+                margin-left: -350px;
+                  }
+                .fa-solid.fa-envelope{
+                    position: absolute;
+                    font-size: 50px;
+                    color: #333;
+                    margin-top: 440px;
+                    margin-left: -600px;
+                }
+                
+            
+
+          
+    
